@@ -1,13 +1,15 @@
 ---
 author: vadim
 date: 2016-09-12
-title: "18,000,000 GitHub repositories, 1.2 billion files, 20 terabytes of code: Spaces or Tabs"
+title: "397 Languages, 18,000,000 GitHub repositories, 1.2 billion files, 20 terabytes of code: Spaces or Tabs"
 draft: false
 image: /post/tab_vs_spaces/intro.png
 description: "Comprehensive study of spaces and tabs usage in source code in GitHub repositories"
 ---
 Tabs or spaces. We are going to parse every file among all programming languages known by GitHub to decide which one is on top.
-[Inspired by prior work.](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd)
+
+This was inspired by Felipe Hoffa's analysis of 400k repositories and 14 programming languages ([here](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd)
+).
 
 [Interactive results presentation.](https://blog.sourced.tech/ext/tabs_spaces/index.html)
 [GitHub repository with the data](https://github.com/src-d/tab-vs-spaces).
